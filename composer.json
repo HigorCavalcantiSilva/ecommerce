@@ -1,9 +1,9 @@
 {
-    "name": "higorcavalcantisilva/ecommerce",
+    "name": "hcodebr/ecommerce",
     "authors": [
         {
-            "name": "Higor Cavalcanti Silva",
-            "email": "higorsilva07.hs@gmail.com"
+            "name": "Hcode Treinamentos",
+            "email": "suporte@hcode.com.br"
         }
     ],
     "require": {
